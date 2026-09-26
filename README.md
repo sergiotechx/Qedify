@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/Logo.png" alt="Logo de Qedify" width="150"/>
+</p>
+
 # Qedify
 
 **Qedify — Queda demostrado.**
