@@ -94,9 +94,9 @@
 
 > Lienzo de una página con el modelo del producto. Extensión: enlace (obligatorio).
 
-**Enlace al Lean Canvas (obligatorio):** [Lean Canvas de Qedify](leancanvas.html)
+**Enlace al Lean Canvas (obligatorio):** [Lean Canvas de Qedify](https://htmlpreview.github.io/?https://github.com/sergiotechx/Qedify/blob/main/docs/semana2/leancanvas.html)
 
-El lienzo está en [leancanvas.html](leancanvas.html), con la distribución clásica de nueve bloques: problema, segmento de usuarios, propuesta de valor única, solución, canales, métricas clave, ventaja diferencial, estructura de costos y flujo de ingresos.
+El lienzo está en [leancanvas.html](https://htmlpreview.github.io/?https://github.com/sergiotechx/Qedify/blob/main/docs/semana2/leancanvas.html), con la distribución clásica de nueve bloques: problema, segmento de usuarios, propuesta de valor única, solución, canales, métricas clave, ventaja diferencial, estructura de costos y flujo de ingresos.
 
 ---
 
